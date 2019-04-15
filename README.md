@@ -1,2 +1,2 @@
-# practice
-This repository contains a simple stub for starting a c++ practice test program. This is meant to use with cmake and c++. 
+# Template
+This repository contains a simple template for starting a c++ practice test. This is meant to use with cmake and c++ 14 standard.
